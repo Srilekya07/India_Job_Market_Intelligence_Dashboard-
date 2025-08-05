@@ -35,7 +35,7 @@ Using a separate, custom-generated dataset of layoffs in India from **2013 to 20
 
 ## 🎥 Demo Video
 
-▶️ [Click here to watch the dashboard demo](https://drive.google.com/drive/folders/1Tyqxqf8ZEQt_JvVK8S_-Ay9p89jGK3Km?usp=drive_link)
+▶️ [Click here to watch the dashboard demo](https://drive.google.com/file/d/1nH54zJzfKmXJfFO0dH6ssN8p_hLVWCXj/view?usp=sharing)
 
 > This short video walkthrough demonstrates the interactive Power BI dashboard, including job trends, salary analysis, and layoff insights across India.
 

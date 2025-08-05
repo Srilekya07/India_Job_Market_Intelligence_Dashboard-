@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Job Market Power BI Dashboard (2013–2025)
+# Indian Job Market Power BI Dashboard (2013–2025)
 
 An interactive, Power BI dashboard that analyzes the Indian job market across hiring trends, skill demand, salary insights, and company-wise layoffs using multiple datasets.
 
@@ -15,7 +15,7 @@ Based on job listings from **late December 2024 to January 2025**, this page pro
 - Locations with the most job opportunities
 - Job type distribution (Full-time, Part-time, Contract)
 
-- ### 🔹 Page 2: Salary & Experience Insights  
+### 🔹 Page 2: Salary & Experience Insights  
 This section explores compensation patterns across various roles and companies:
 - Highest paying job titles and average salaries
 - Relationship between experience and salary
@@ -23,7 +23,7 @@ This section explores compensation patterns across various roles and companies:
 - Comparison of salaries by company size
 - Jobs vs. number of applicants (competition analysis)
 
-- ### 🔹 Page 3: Company-Wise Layoff Analysis (2013–2025)  
+### 🔹 Page 3: Company-Wise Layoff Analysis (2013–2025)  
 Using a separate, custom-generated dataset of layoffs in India from **2013 to 2025**, this page visualizes:
 - Layoffs by company, sector, and job role
 - Percentage of workforce affected
@@ -46,3 +46,5 @@ Using a separate, custom-generated dataset of layoffs in India from **2013 to 20
 
 - 📧 Email: [nsrilekya6336@gmail.com](mailto:nsrilekya6336@gmail.com)
 - 💼 LinkedIn: [nadella-srilekya](https://www.linkedin.com/in/nadella-srilekya-22773922a/)
+
+---

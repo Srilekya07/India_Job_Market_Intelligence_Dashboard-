@@ -3,6 +3,18 @@
 An interactive, Power BI dashboard that analyzes the Indian job market across hiring trends, skill demand, salary insights, and company-wise layoffs using multiple datasets.
 
 ---
+
+## 🎯 Key Objectives
+
+- To analyze the Indian job market using interactive Power BI dashboards.
+- To identify in-demand job skills, job roles, and hiring companies.
+- To evaluate compensation patterns across roles, experience levels, and company sizes.
+- To track layoff trends across Indian companies from 2013 to 2025.
+- To assist **job seekers**, **recruiters**, and **policy makers** with meaningful data-driven insights.
+- To demonstrate real-world capabilities in **data modeling**, **DAX**, and **interactive dashboard design**.
+
+---
+
 ## 📌 Project Overview
 
 This project contains **three pages of interactive visual analysis** built in Power BI:
@@ -47,6 +59,22 @@ Using a separate, custom-generated dataset of layoffs in India from **2013 to 20
 - **Power Query Editor**: Data cleaning, transformation, unpivoting
 - **DAX (Data Analysis Expressions)**: Calculated KPIs, metrics, and aggregates
 - **Data Visualization**: Bar charts, donut charts, slicers, KPIs, scatter plots
+
+---
+
+## 📈 Actionable Insights
+
+- **Skill Demand**: Python, React, and UI/UX design are consistently top-rated across job listings, offering competitive average salaries.
+- **Hiring Hotspots**: Hyderabad leads as the top location for job openings, with Amazon, Wipro, and Google among the highest recruiters.
+- **Work Mode Trends**: Remote, hybrid, and on-site job distributions are nearly balanced (~33% each), showing flexibility in job offerings.
+- **Salary Gaps**: Despite increased experience levels, salary growth remains flat in many roles—highlighting potential market inefficiencies.
+- **Educational Requirements**: Most jobs prefer candidates with a B.Tech or B.Sc, signaling a strong demand for tech-educated talent.
+- **Company Size Effect**: Larger organizations offer significantly better compensation packages than small-to-medium-sized firms.
+- **Layoff Patterns (2013–2025)**:
+  - Layoffs peaked during industry shifts and post-pandemic recovery.
+  - Tech, EdTech, and startups saw higher layoff percentages.
+  - Common reasons include restructuring, automation, and cost-cutting measures.
+- **Applicant Competition**: Job-to-applicant ratios reveal intense competition, especially for roles like Data Analyst and Software Engineer.
 
 ---
 
